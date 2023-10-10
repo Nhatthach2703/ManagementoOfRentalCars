@@ -1,0 +1,6 @@
+4, CAR001, Toyota, Vios, 92C 12345, 500000, yes
+16, CAR002, Ford, Transit, 43D 22334, 1000000, no
+7, CAR003, Mitsubishi, Xpander, 43D 23456, 700000, yes
+4, CAR004, Hyundai, Accent, 43C 12345, 500000, no
+7, CAR005, Toyota, Innova, 43E 19976, 750000, no
+16, CAR006, Toyota, Hiace, 43E 32345, 1000000, no
